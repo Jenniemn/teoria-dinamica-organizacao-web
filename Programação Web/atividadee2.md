@@ -61,4 +61,18 @@ console.log(validarEmail("usuario@email"));     // false
 
 *Melhora a UX*: reduz frustração com formulários.
 
+*FONTES DA ATIVIDADE 1 E 2*
 
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+https://www.w3schools.com/js/js_htmldom.asp
+
+https://greensock.com/docs/
+
+https://api.jquery.com/category/effects/
+
+https://animejs.com/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
